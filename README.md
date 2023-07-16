@@ -16,7 +16,7 @@ The following dependencies are required to run the project:
 
 Installation:
 1. Clone the repository:
-git clone https://github.com/harshil2201/student-performance-prediction.git
+git clone [https://github.com/harshil2201/student-performance-prediction.git](https://github.com/harshil2201/predicting_student_performance.git)
 
 2. Navigate to the project directory:
 cd student-performance-prediction
